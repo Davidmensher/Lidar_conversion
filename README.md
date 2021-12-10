@@ -6,4 +6,4 @@ Data can't be published, but we use data from: https://openreview.net/pdf?id=tjZ
 
 Current model is based on: https://arxiv.org/pdf/1709.07492.pdf
 
-The png image contains evaluation of the model on 8 rgbd images, in format: rgb, lidar13 depth, lidar 14 depth, predicted depth, normals of predicted depth.
+The png image contains evaluation of the model on 8 rgbd images, in format: rgb, lidar13 depth, lidar 14 depth, predicted depth (Ground Truth), normals of predicted depth.
